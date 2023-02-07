@@ -18,3 +18,6 @@ name = input("What is your name?\n")
 celsius = float(input("What is your temperature in celsius?\n"))
 farenheit = (celsius * 1.8) + 32
 print("The temperature in farenheit is : " + str(farenheit))
+
+name1 = input("What is your name?\n")
+name2 = input("What is your name?\n")
